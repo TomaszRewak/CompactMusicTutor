@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompactMusicTutor.Android", "CompactMusicTutor\CompactMusicTutor.Android\CompactMusicTutor.Android.csproj", "{9E6D8D86-A68A-407E-AAA6-ACE256FF8788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompactMusicTutor", "CompactMusicTutor\CompactMusicTutor\CompactMusicTutor.csproj", "{7ADFA88D-B747-439E-93D5-7BB406CCC6EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E6D8D86-A68A-407E-AAA6-ACE256FF8788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6D8D86-A68A-407E-AAA6-ACE256FF8788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6D8D86-A68A-407E-AAA6-ACE256FF8788}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9E6D8D86-A68A-407E-AAA6-ACE256FF8788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6D8D86-A68A-407E-AAA6-ACE256FF8788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E6D8D86-A68A-407E-AAA6-ACE256FF8788}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7ADFA88D-B747-439E-93D5-7BB406CCC6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADFA88D-B747-439E-93D5-7BB406CCC6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADFA88D-B747-439E-93D5-7BB406CCC6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADFA88D-B747-439E-93D5-7BB406CCC6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F62BDAD-4EB7-4365-BFE2-69DCDF1EC089}
+	EndGlobalSection
+EndGlobal
